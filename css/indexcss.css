@@ -1,0 +1,26 @@
+body{
+     background-color: #EAEAEA;
+}
+
+h1{
+    font-size: 36px;
+    font-family: "times new roman", times, serif;
+    font-weight: normal;
+    line-height: 40px;
+    letter-spacing: 0px;
+    color: #282828;
+}
+
+p{
+    font-size: 12px;
+    color: #282828;
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+}
+
+a{
+    font-size: 12px;
+    color: #282828;
+    font-family: helvetica, arial, sans-serif;
+    letter-spacing: 1px;
+}
