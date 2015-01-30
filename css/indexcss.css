@@ -1,5 +1,11 @@
 body{
-     background-color: #EAEAEA;
+    background-color: #EAEAEA;
+    /*
+    background-image: url(../cat.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    */
+    margin:0;
 }
 
 h1{
