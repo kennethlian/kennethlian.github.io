@@ -1,0 +1,83 @@
+html {
+	line-height: 1.2;
+}
+
+body{
+    margin:0;
+    color: #3E4751;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 14px;
+    background-color: #EAEAEA;
+}
+.sidebar {
+    background-color: #EAEAEA;
+    border-right: 3px #3E4751 solid;
+    width:200px;
+    height: 800px;
+    padding:0px;
+    position:fixed;
+    text-align: left;
+    font-size:12px;
+}
+
+.posts{
+	margin-left:190px;
+	padding: 10px 10px 10px 40px;
+	background-color: #EAEAEA;
+	color: #3E4751;
+    width:800px;
+}
+
+.posts h2{
+    font-size:16px;
+}
+
+.posts p {
+	margin-right:200px;
+	letter-spacing: 0.5px;
+    line-height: 18px;
+    font-size:12px;
+}
+
+.sidebar h1{
+	font-family: "Times New Roman", times, serif;
+	font-size: 30px;
+	padding:5px 7px 5px;
+	border-bottom: 3px #3E4751 solid;
+}
+
+.sidebar h2{
+	font-family: "Times New Roman", times, serif;
+	font-size: 14px;
+	margin-left:10px;
+}
+
+.sidebar h1 a:hover {
+	color: #0011AF;
+}
+
+.sidebar a{
+	color: #3E4751;
+	text-decoration: none;
+}
+
+.sidebar ul {
+    list-style: none;
+    margin-left:15px;
+    padding:0;
+    letter-spacing: 0.5px;
+    line-height: 18px;
+}
+
+.sidebar ul a:hover{
+    color: #00FF06;
+}
+
+.sidebar p {
+    margin-left:15px;
+    padding:0;
+    color: #B2B2B2;
+    letter-spacing: 0.5px
+}
+
+
