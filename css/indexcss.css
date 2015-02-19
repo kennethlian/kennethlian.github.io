@@ -5,7 +5,7 @@ body{
     background-attachment: fixed;
     background-size: cover;
     */
-    margin:0;
+    margin: 20px;
 }
 
 h1{
@@ -29,4 +29,17 @@ a{
     color: #282828;
     font-family: helvetica, arial, sans-serif;
     letter-spacing: 1px;
+}
+
+h2{
+    font-size: 18px;
+    color: #282828;
+    letter-spacing: 1px;
+    font-weight: normal;
+}
+
+ul{
+    line-height: 18px;
+    list-style: none;
+    padding-left: 10px;
 }
